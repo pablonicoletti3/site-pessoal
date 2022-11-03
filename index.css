@@ -1,0 +1,32 @@
+.imagem{
+    background: rgba(0, 0, 0, 0.8);
+}
+h3{
+    position: absolute;
+height: 40px;
+left: 660px;
+top: 30%;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #FFFFFF;
+}
+h1{
+    position: absolute;
+height: 30px;
+left: 520px;
+top: 200px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 120px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
