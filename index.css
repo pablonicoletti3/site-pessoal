@@ -1,10 +1,10 @@
 .imagem{
     background: rgba(0, 0, 0, 0.8);
 }
-h3{
+h2{
     position: absolute;
-height: 40px;
-left: 660px;
+height: 50%;
+left: 47%;
 top: 30%;
 font-family: 'Lato';
 font-style: normal;
@@ -16,17 +16,87 @@ color: #FFFFFF;
 }
 h1{
     position: absolute;
-height: 30px;
-left: 520px;
-top: 200px;
+height: 15px;
+left: 500px;
+top: 230px;
 
 font-family: 'Kanit';
 font-style: normal;
-font-weight: 400;
+font-weight: 200;
 font-size: 80px;
-line-height: 120px;
-/* identical to box height */
-
+line-height: 20px;
 
 color: #FFFFFF;
+}
+p{
+    position: absolute;
+width: 289px;
+height: 29px;
+left: 610px;
+top: 330px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+header{
+    position: absolute;
+
+left: 610px;
+top: 440px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+color: #FFFFFF;
+}
+h4{
+    position: absolute;
+width: 400px;
+left: -60px;
+top:15px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.pc{
+    
+position: absolute;
+width: 400px;
+height: 300px;
+left: 47px;
+top: 88%;
+}
+.pc2{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 40%;
+    top: 88%;
+    }
+
+.pc3{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 80%;
+    top: 88%;
 }
